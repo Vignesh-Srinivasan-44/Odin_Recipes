@@ -1,0 +1,53 @@
+body {
+    background-color: #F6F7C4;
+    box-sizing: border-box;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    text-align: center;
+}
+
+.home_page > ul >li {
+    text-align: center;
+    list-style-type: none;
+    line-height: 2rem;
+}
+
+.ingredients > ul > li {
+    list-style-type: none;
+    text-align: center;
+    line-break: auto;
+}
+
+.directions > ol > li {
+    list-style-type: none;
+    text-align: center;
+    line-height: auto;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.beef_miso_ramen {
+    width: 200px;
+    height: 200px;
+}
+
+.turkish_fish_stew {
+    width: 200px;
+    height: 200px;
+}
+
+
+footer {
+    text-align: center;
+  }
+
